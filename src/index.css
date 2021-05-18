@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.bg {
+  background-image: url("image/img1.jpg");
+  height: 85vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  .bg1 {
+    background-image: url("image/img10.jpg");
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+  .footer {
+    height: 50px;
+    flex-shrink: 0;
+    text-align: center;
+    background-color: tomato;
+    color: white;
+  }
+
+  .container1 {
+    text-align: center;
+    width : 800px;
+
+  }
+
+/* .Body1 {
+  text-align: center; */
+  /* border: 3px solid rgb(221, 84, 226); */
+  /* height: 530px;
+  background-color: #7ed3e9;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+} */
+/* .Footer {
+  text-align: center; */
+  /* border: 3px solid rgb(221, 48, 57); */
+  /* background-color: #48444e;
+  color: white;
+  height: 135px;
+} */
+
+/* .Body2 {
+  text-align: center; */
+  /* border: 3px solid rgb(221, 84, 226); */
+  /* height: 665px;
+  background-color: #7ed3e9;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+} */
+
+
